@@ -86,7 +86,7 @@ Edit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/zihammahmud/Student-Management-System
+   github.com/zihammahmud/Student-Management-System
 Open in IntelliJ IDEA or any Java IDE.
 
 Navigate to Main.java inside studentmanagementsystem.ui.
